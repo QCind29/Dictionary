@@ -1,6 +1,8 @@
-# dqc
+# Image Insight
 
 A new Flutter project.
+![image](https://github.com/QCind29/Image_Insight/assets/90078394/2a7085cb-741a-40c6-9e98-119df68c7435)
+
 
 ## Getting Started
 
